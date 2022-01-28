@@ -17,3 +17,6 @@ def important_method():
 def new_method():
     return
 
+
+def another_new_method():
+    return
