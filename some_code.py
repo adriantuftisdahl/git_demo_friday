@@ -14,3 +14,6 @@ def important_method():
     return return_statement
 
 
+def new_method():
+    return
+

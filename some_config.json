@@ -2,7 +2,7 @@
 "db_default_version": "sde.Default",
 "database_owner": "OWNER",
 "dbconnections": {
-        "db_viewer": "connections\\ADD@SOMETHING.sde",
+        "db_viewer": "connections\\AD@SOMETHING.sde",
         "db_ad_user": "connections\\ADbruker@SOME_SQL.sde"
     }
 }
